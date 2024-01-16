@@ -1,1 +1,1 @@
-# shuto-bgn.github.io
+クイズゲームのURL:https://shuto-bgn.github.io/
